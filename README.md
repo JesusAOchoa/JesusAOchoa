@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/jesusaochoajr/">Jesus</a>, and Im starting a new chapter in the IT field!>👨‍💻
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/jesusaochoajr/">Jesus</a>, and Im starting a new chapter in the IT field! 👨‍💻
   
   <h2>Information Technology Projects:</h2>
   
