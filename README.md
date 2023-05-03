@@ -12,3 +12,9 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JesusAOchoa/configure-ad)
   - [Network File Shares and Permissions](https://github.com/JesusAOchoa/Network-File-Shares-and-Permissions)
   - [Virtual Private Network](https://github.com/JesusAOchoa/Virtual-Private-Network)
+
+  <h2>Connect with me:</h2>
+  
+  [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  
+  [linkedin]: https://www.linkedin.com/in/jesusaochoajr/  
