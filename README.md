@@ -10,3 +10,4 @@
   - [Creating and deploying an Azure virtual machine](https://github.com/JesusAOchoa/Azure-intro)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JesusAOchoa/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JesusAOchoa/configure-ad)
+  - [Network File Shares and Permissions](https://github.com/JesusAOchoa/Network-File-Shares-and-Permissions)
