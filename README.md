@@ -8,3 +8,4 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JesusAOchoa/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating and deploying an Azure virtual machine](https://github.com/JesusAOchoa/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JesusAOchoa/azure-network-protocols)
